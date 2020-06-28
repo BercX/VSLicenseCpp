@@ -1,5 +1,5 @@
 # VSLicenseCpp
-VSLicenseCpp is a program that helps to get and set Visual Studio Community Edition trial expiration date.
+VSLicenseCpp is a program that helps to get and set Visual Studio Community Edition trial expiration date. This project is for educational purposes only.
 
 ## Installation
 Download the [latest version of VSLicenseCpp](https://github.com/BercX/VSLicenseCpp/releases/latest).
